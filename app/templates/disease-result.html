@@ -1,0 +1,26 @@
+
+{% extends 'layout.html' %} {% block body %}
+
+<style>
+  html body {
+    height: 100%; /* Ensures the background covers the entire page */
+    margin: 0;
+    padding: 0;
+    background-image: url('./static/images/rice.jpg');
+    background-size: cover; /* Ensures the image covers the entire background */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-position: center; /* Centers the background image */
+    /* background-color: rgb(206, 206, 228);  */
+}
+</style>
+
+<div class="container py-2 mx-auto my-50 h-10 " style="margin: 9rem;">
+  <div class="row">
+      <div class="col-sm py-2 py-md-3">
+          <!-- <div class="card card-body" style="justify-content: center;background-image: url('./static/images/rice.jpg');"> -->
+            <p class="text-center" style="color: black; font-size: 32px;">{{ prediction }}</p>
+          </div>
+      </div>
+  </div>
+</div>
+{% endblock %}
