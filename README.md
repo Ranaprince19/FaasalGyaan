@@ -39,7 +39,6 @@ This is a proof-of-concept (POC) project. The data used is provided "as is" with
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img height="30" src="https://github.com/tomchen/stack-icons/raw/master/logos/bootstrap.svg">
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-<img height="30" src="https://symbols.getvecta.com/stencil_80/56_flask.3a79b5a056.jpg">
 <img height="30" src="https://cdn.iconscout.com/icon/free/png-256/heroku-225989.png">
 
 Additional libraries:
@@ -111,4 +110,6 @@ Additional libraries:
 
 
 ## CONTACT 📞
-For questions or contributions, email or connect on [LinkedIn](www.linkedin.com/in/prince-kumar-519a05287). [Email](princebaghal637@gmail.com).
+For questions or contributions, 
+connect on [LinkedIn](https://www.linkedin.com/in/prince-kumar-519a05287/).
+Email - princebaghal637@gmail.com 
