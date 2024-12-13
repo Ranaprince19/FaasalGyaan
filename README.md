@@ -95,10 +95,7 @@ Additional libraries:
 
 ---
 
-## CONTRIBUTION 👨‍💻
-[Shreya Singh](https://github.com/ssshreya24)
 
----
 
 ## IMPROVEMENTS 📈
 - Improve CSS and frontend design.
